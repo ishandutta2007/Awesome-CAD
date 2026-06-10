@@ -21,26 +21,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Proprietary / SaaS CAD Platforms
 
-### Core CAD Platforms
-
-- **[AutoCAD](https://www.autodesk.com/products/autocad)**  
-  The industry-standard CAD software with powerful 2D/3D tools, DWG compatibility, and extensive automation features.
-
-- **[ZWCAD](https://www.zwcad.com/)**  
-  Fast, DWG-compatible CAD alternative with strong performance and .NET API support.
-
-- **[DraftSight](https://www.draftsight.com/)**  
-  Professional 2D CAD software with excellent DWG support and API customization.
-
-- **[BricsCAD](https://www.bricsys.com/bricscad)**  
-  Powerful DWG-based CAD with BIM and 3D modeling capabilities.
-
-- **[Rhino (Rhinoceros)](https://www.rhino3d.com/)**  
-  Popular NURBS-based 3D modeling tool widely used in industrial design and architecture.
+| Platform | Description | Pricing (Approx.) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[AutoCAD](https://www.autodesk.com/products/autocad)** | Industry-standard 2D/3D tools & DWG compatibility. | ~$2,310/year (Full) <br> ~$490/year (LT) | 15-day trial. Free for students/educators. |
+| **[Fusion 360](https://www.autodesk.com/products/fusion-360)** | Integrated CAD, CAM, CAE, and PCB platform. | ~$680/year (Commercial) | **Free for personal use** ($1k revenue limit, 10 active docs). |
+| **[SolidWorks](https://www.solidworks.com/)** | Professional 3D design and engineering software. | ~$2,820/year (Standard) <br> ~$48/year (Maker) | 7-day online trial. Free for startups (1st year). |
+| **[Rhino 3D](https://www.rhino3d.com/)** | NURBS-based 3D modeling for industrial design. | $995 (Perpetual) | 90-day trial. Reverts to view-only after trial. |
+| **[BricsCAD](https://www.bricsys.com/bricscad)** | DWG-based CAD with BIM and mechanical tools. | ~$315/year (Lite) <br> ~$590+ (Perpetual) | 30-day trial. Free for students/educators. |
+| **[ZWCAD](https://www.zwcad.com/)** | Fast, DWG-compatible AutoCAD alternative. | ~$899+ (Perpetual) | 30-day trial. |
+| **[DraftSight](https://www.draftsight.com/)** | Professional 2D CAD with strong DWG support. | ~$299/year (Pro) <br> ~$599/year (Premium) | 30-day trial. |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: SolidWorks, Fusion 360, and various vertical CAD solutions.
+Vertical CAD solutions and industry-specific tools.
 
 ## Open-Source GitHub Projects
 
