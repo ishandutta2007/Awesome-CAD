@@ -151,6 +151,6 @@ Contributions make this list better! Please follow these steps:
 ---
 
 <p align="center">
-  <b>Made with ❤️ for engineers, architects, and makers.</b><br>
+  <b>Made with ❤️ for engineers, architects, and doers.</b><br>
   <i>Let's democratize precision design.</i>
 </p>
