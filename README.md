@@ -131,6 +131,20 @@ Contributions make this list better! Please follow these steps:
 
 ---
 
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-CAD&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CAD&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CAD&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CAD&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
+
+---
+
 <p align="center">
   <b>Made with ❤️ for engineers, architects, and makers.</b><br>
   <i>Let's democratize precision design.</i>
