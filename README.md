@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/banner.svg" alt="Awesome CAD Banner" width="800">
+</p>
+
+<p align="center">
   <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="200" fill="#0f172a" rx="10"/>
     <rect width="800" height="200" fill="url(#bannerGradient)" rx="10"/>
