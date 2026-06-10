@@ -12,7 +12,7 @@
       AWESOME CAD
       <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite" />
     </text>
-    <text x="400" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94a3b8" text-anchor="middle">The Ultimate Directory for 2D/3D Design & Engineering Tools</text>
+    <text x="400" y="140" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#94a3b8" text-anchor="middle">The Ultimate Directory for 2D/3D Design &amp; Engineering Tools</text>
     <line x1="50" y1="160" x2="750" y2="160" stroke="#334155" stroke-width="2">
       <animate attributeName="stroke-dasharray" from="0,700" to="700,0" dur="2s" fill="freeze" />
     </line>
