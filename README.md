@@ -66,6 +66,7 @@ Discover top-tier commercial CAD solutions with professional support and industr
 | :--- | :--- | :--- | :--- |
 | **[AutoCAD](https://www.autodesk.com/products/autocad)** | 🏆 Industry-standard 2D/3D tools & DWG compatibility. | ~$2,310/year (Full) <br> ~$490/year (LT) | 15-day trial. Free for students/educators. |
 | **[Fusion 360](https://www.autodesk.com/products/fusion-360)** | ⚙️ Integrated CAD, CAM, CAE, and PCB platform. | ~$680/year (Commercial) | **Free for personal use** ($1k revenue limit, 10 active docs). |
+| **[Prompt2CAD](https://prompt2cad.com/)** | 🤖 Browser-based AI CAD for generating editable CAD-style geometry from text prompts, with STEP, DXF, STL, OBJ, and GLB exports. | Free to start; paid credits | Free starting credits. |
 | **[SolidWorks](https://www.solidworks.com/)** | 🛠️ Professional 3D design and engineering software. | ~$2,820/year (Standard) <br> ~$48/year (Maker) | 7-day online trial. Free for startups (1st year). |
 | **[Rhino 3D](https://www.rhino3d.com/)** | 📐 NURBS-based 3D modeling for industrial design. | $995 (Perpetual) | 90-day trial. Reverts to view-only after trial. |
 | **[BricsCAD](https://www.bricsys.com/bricscad)** | 🏗️ DWG-based CAD with BIM and mechanical tools. | ~$315/year (Lite) <br> ~$590+ (Perpetual) | 30-day trial. Free for students/educators. |
