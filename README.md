@@ -76,6 +76,9 @@ Discover top-tier commercial CAD solutions with professional support and industr
 ### 🛠️ Advanced & Specialized Platforms
 Vertical CAD solutions and industry-specific tools (e.g., Civil 3D, Revit, CATIA).
 
+- **[CADProps](https://www.cadprops.com/tools/step-viewer/)**
+  Proprietary browser-based STEP viewer for inspecting dimensions, measuring geometry and viewing sections; viewing requires no account.
+
 ---
 
 ## 🔓 Open-Source GitHub Projects
