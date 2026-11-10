@@ -72,6 +72,7 @@ Discover top-tier commercial CAD solutions with professional support and industr
 | **[BricsCAD](https://www.bricsys.com/bricscad)** | 🏗️ DWG-based CAD with BIM and mechanical tools. | ~$315/year (Lite) <br> ~$590+ (Perpetual) | 30-day trial. Free for students/educators. |
 | **[ZWCAD](https://www.zwcad.com/)** | ⚡ Fast, DWG-compatible AutoCAD alternative. | ~$899+ (Perpetual) | 30-day trial. |
 | **[DraftSight](https://www.draftsight.com/)** | 📝 Professional 2D CAD with strong DWG support. | ~$299/year (Pro) <br> ~$599/year (Premium) | 30-day trial. |
+| **[LinceCAD](https://www.lincecad.com/en/)** | 📐 2D/3D CAD for Windows and Linux; opens and saves DWG/DXF natively. | €200 (perpetual, launch price) <br> €400 (perpetual, standard) <br> excl. VAT | 30-day full trial. Read-only after the trial. |
 
 ### 🛠️ Advanced & Specialized Platforms
 Vertical CAD solutions and industry-specific tools (e.g., Civil 3D, Revit, CATIA).
