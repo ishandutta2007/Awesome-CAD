@@ -72,6 +72,7 @@ Discover top-tier commercial CAD solutions with professional support and industr
 | **[BricsCAD](https://www.bricsys.com/bricscad)** | 🏗️ DWG-based CAD with BIM and mechanical tools. | ~$315/year (Lite) <br> ~$590+ (Perpetual) | 30-day trial. Free for students/educators. |
 | **[ZWCAD](https://www.zwcad.com/)** | ⚡ Fast, DWG-compatible AutoCAD alternative. | ~$899+ (Perpetual) | 30-day trial. |
 | **[DraftSight](https://www.draftsight.com/)** | 📝 Professional 2D CAD with strong DWG support. | ~$299/year (Pro) <br> ~$599/year (Premium) | 30-day trial. |
+| **[SolidCraft](https://www.solidcraftcad.com/)** | 🧩 Browser-based parametric CAD for quick 3D modeling, no install required. | Free / Freemium | Free tier with core modeling tools. |
 
 ### 🛠️ Advanced & Specialized Platforms
 Vertical CAD solutions and industry-specific tools (e.g., Civil 3D, Revit, CATIA).
